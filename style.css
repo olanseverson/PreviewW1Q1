@@ -42,3 +42,17 @@ section article {
     padding: 5px;
 }
 
+footer {
+    margin: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a.footer_middle {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding:0 15px;
+    margin: 0 10px;
+}
