@@ -19,12 +19,12 @@ header nav a:link {
     text-decoration: none;
 }
 
-section .profile {
+/* section .profile {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: 10px;
-}
+} */
 
 section .profile img {
     width: 200px;
@@ -33,3 +33,4 @@ section .profile img {
     margin-left: 10px;
     margin-right: 30px;
 }
+
